@@ -193,7 +193,7 @@ function App() {
 
         {/* Search Section */}
         <div className="relative">
-          <div className="text-center text-sm text-gray-600 mb-4 dark:text-gray-300">
+          <div className="text-center font-semibold text-md text-gray-600 mb-4 dark:text-gray-300">
             Enter a city name to add it to your locations
           </div>
 
